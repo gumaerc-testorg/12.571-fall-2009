@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture notes for each session.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: d40ec6f9-a31e-46de-1c61-bb230353c0a2
 ---
@@ -28,7 +33,7 @@ FILES
 Introduction to seismic wave propagation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_571f09_lec1))
+({{% resource_link 47575611-b0dc-fd8c-e236-57c2eb3b31e0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +45,7 @@ Introduction to seismic wave propagation
 Land and shallow marine near-surface problems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_571f09_lec2))
+({{% resource_link 177ef5ee-e783-f6af-e313-84afe964810b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +57,7 @@ Land and shallow marine near-surface problems
 Refraction traveltime interpretation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_571f09_lec3))
+({{% resource_link 65460b5a-fb2d-58fa-3a80-1c990e6f898f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +69,7 @@ Refraction traveltime interpretation
 First-arrival traveltime tomography
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_571f09_lec4))
+({{% resource_link d210daa4-c421-16d1-1e12-2b2ec59ab8c8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ First-arrival traveltime tomography
 Refraction migration methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_571f09_lec5))
+({{% resource_link ce998e49-395b-b9e2-ea52-d43892a298ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +93,7 @@ Refraction migration methods
 Early-arrival waveform tomography
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_571f09_lec6))
+({{% resource_link 4b0ad8f8-70fa-ac14-6f22-3c7560b3d787 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +105,7 @@ Early-arrival waveform tomography
 Dispersion-curve inversion methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_571f09_lec7))
+({{% resource_link bb5590e6-a107-26f0-b43a-e4971cfafe8e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ Dispersion-curve inversion methods
 Short-wavelength residual statics corrections
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_571f09_lec8))
+({{% resource_link 6c015501-54b1-e0c9-116b-f5ff5e59288e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +129,7 @@ Short-wavelength residual statics corrections
 Beyond seismic statics corrections
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_571f09_lec9))
+({{% resource_link 090ac225-a9e1-de01-a1a7-1cf65757e51a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +141,7 @@ Beyond seismic statics corrections
 Joint geophysical inversions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_571f09_lec10))
+({{% resource_link 1b83e34c-877c-29f6-062f-81f5a8678f21 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
