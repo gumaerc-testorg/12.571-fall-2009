@@ -43,7 +43,11 @@
     "content": "aa1d13ce-5006-e3aa-e310-d843d574f6cf",
     "website": "12-571-near-surface-geophysical-imaging-fall-2009"
   },
-  "learning_resource_types": [],
-  "site_uid": "614dc60f-47d3-49a9-af35-37c61b7ceb27",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "site_uid": "11bcdd65-308f-4b6d-9e36-ba605433713e",
+  "site_short_id": "12.571-fall-2009",
   "title": "Course Metadata"
 }
